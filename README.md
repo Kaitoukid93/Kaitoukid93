@@ -38,7 +38,7 @@ I enjoy designing and building **complete software products** — from idea and 
 * Building efficient cross-platform desktop applications
 * Exploring deeper embedded system development
 * Designing tools that automate workflows
-## 🚀 Featured Projects
+
 
 ## 🚀 Featured Project
 
