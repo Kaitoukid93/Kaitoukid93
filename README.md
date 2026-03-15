@@ -38,6 +38,43 @@ I enjoy designing and building **complete software products** — from idea and 
 * Building efficient cross-platform desktop applications
 * Exploring deeper embedded system development
 * Designing tools that automate workflows
+## 🚀 Featured Projects
+
+## 🚀 Featured Project
+
+### 🧠 Ambinity
+
+A cross-platform RGB Controller with Ambilight,Music reactive and Animation.
+Designed with a focus on **performance, modular architecture, and scalable asset management**.
+Built as a complete product from **concept, UI/UX design, system architecture, to implementation**.
+
+**Key Highlights**
+
+* Cross-platform desktop application built with **.NET**
+* High-performance lighting profile system
+* Custom asset database and repository design
+* Designed with performance-first principles
+
+**Tech Stack**
+
+* C#
+* .NET
+* Desktop UI Framework (Avalonia)
+
+🔗 https://github.com/Kaitoukid93/Ambinity
+
+---
+
+## 🛠 Other Projects
+
+### 🖥 SimpleTool
+
+A simple Avalonia cross-platform app for batch editing ( text, effect ) photos
+
+
+
+
+
 
 ## 📌 Philosophy
 
@@ -47,4 +84,3 @@ I enjoy designing and building **complete software products** — from idea and 
 ---
 
 ⭐ Feel free to explore my repositories and projects.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
