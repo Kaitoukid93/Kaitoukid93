@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Hoang Anh 👋
 
-<!--
-**Kaitoukid93/Kaitoukid93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer focused on **desktop applications** and **embedded systems**.
+I enjoy designing and building **complete software products** — from idea and architecture to UI/UX and implementation.
 
-Here are some ideas to get you started:
+## 🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Desktop application development (.NET / Cross-platform)
+* Embedded programming
+* System architecture & performance optimization
+* UI/UX design for desktop software
+* Full product development from concept → production ( Search for Ambino Basic, Ambino HubV3, Ambino FanHub, Ambino EDGE )
+
+## 🛠 Tech I Work With
+
+**Languages**
+
+* C#
+* C / C++
+
+
+**Frameworks / Tools**
+
+* .NET
+* Avalonia / WPF
+* Git
+* Embedded toolchains
+
+**Areas of Interest**
+
+* High-performance desktop apps
+* Embedded devices
+* Automation tools
+* Developer utilities
+
+## 🚀 Current Focus
+
+* Building efficient cross-platform desktop applications
+* Exploring deeper embedded system development
+* Designing tools that automate workflows
+
+## 📌 Philosophy
+
+> Performance and simplicity first.
+> Software should be fast, reliable, and purposeful.
+
+---
+
+⭐ Feel free to explore my repositories and projects.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
